@@ -1,4 +1,4 @@
-# GUI Application for Traffic Simulation
+# Traffic Signal Simulation
 
 This repository contains code for a GUI application developed using C++ and OpenGL for simulating traffic scenarios. The application renders a graphical representation of a road environment where vehicles move and obey traffic signals.
 
